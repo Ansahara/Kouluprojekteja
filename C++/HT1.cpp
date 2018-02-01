@@ -1,5 +1,4 @@
 //Arttu Ansaharju
-//246341
 //arttu.ansaharju@student.tut.fi
 
 

@@ -1,5 +1,5 @@
 // arttu.ansaharju@student.tut.fi
-// 246341
+
 
 #ifndef KAYTTOLIITTYMA_HH
 #define KAYTTOLIITTYMA_HH

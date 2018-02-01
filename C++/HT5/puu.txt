@@ -1,0 +1,12 @@
+hiilta  :  puuta
+   rautaharkkoja:rautamalmia
+lautaa:    puuta
+
+  rautalapio:lapion_varsi
+   rautalapio :   lautaa
+
+#gkjguk
+  #fsffd
+rautalapio:rautaharkkoja
+rautaharkkoja:  hiilta
+lapionvarsi   :lautaa
