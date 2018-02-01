@@ -1,0 +1,5 @@
+7;Tutkimusryhmä X;T
+123456;Teemu Teekkari;Y
+24680;Olli Opettaja;TC,TE610,TF5,TF6
+90;Siiri Siivooja;F,K,P,R,S,T
+987654;Ella Elektroniikkatutkija;S,TE,TF,TG,Y
